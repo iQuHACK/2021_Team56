@@ -14,6 +14,6 @@ The main difficulty we faced is that the algebra since the <img src="https://ren
 ## TO DO
 
 
-### Participants: Guangpeng Xu and Akash Patel
+### Participants: Guangpeng Xu, Akash Patel and Cecilia Josefa Pérez Muñoz
 
 ### Thank you!
